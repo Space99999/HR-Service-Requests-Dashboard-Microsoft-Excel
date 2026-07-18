@@ -1,5 +1,7 @@
 # HR Service Requests Dashboard – Microsoft Excel
 
+![Vista previa del Dashboard](imagenes/dashboard.png)
+
 ## Descripción
 
 Este proyecto consiste en el desarrollo de un dashboard interactivo en Microsoft Excel para el análisis de solicitudes de Recursos Humanos (HR Service Requests).
